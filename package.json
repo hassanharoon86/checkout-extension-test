@@ -1,5 +1,5 @@
 {
-  "name": "checkout-extension-test",
+  "name": "post-purchase-extension-test",
   "private": true,
   "scripts": {
     "build": "remix vite:build",
